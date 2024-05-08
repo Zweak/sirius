@@ -159,7 +159,7 @@ const CreatePost = () => {
                         type="submit"
                         className="mt-3 text-white bg-[#6469ff] font-medium rounded-md text-sm w-full sm:w-auto px-5 py-2.5 text-center"
                     >
-                        {loading ? 'Sharing.../Uploading...' : 'Share with the Community'}
+                        {loading ? 'Updating...' : 'Add to Home Page'}
                     </button>
                 </div>
             </form>
