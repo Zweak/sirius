@@ -4,7 +4,7 @@
 nano ./client/.env
 
 VITE_IMG_TOKEN # (huggingface write token) - interface api, (custom llm) - figure shit out urself  
-VITE_SERVER_URL  # (http/s:domain.com) - prod, (http://localhost:8080) - dev run  
+VITE_SERVER_URL  # (http/s://domain.com) - prod, (http://localhost:8080) - dev run  
 ```
 
 ```bash
